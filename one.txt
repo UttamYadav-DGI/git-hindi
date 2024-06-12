@@ -1,2 +1,4 @@
 it is my first repositry learn git
-add another marketing message section
+add another marketing message section //main section
+
+add footer note
