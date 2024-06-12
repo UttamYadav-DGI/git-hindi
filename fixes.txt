@@ -4,3 +4,5 @@ fix another bugs.
 2024 is coming
 pinkmode fix - one more bug fixed
 another fix message for pink mode
+
+another fix methode to purple mode
